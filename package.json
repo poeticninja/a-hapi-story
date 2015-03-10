@@ -1,0 +1,23 @@
+{
+  "name": "a-hapi-story",
+  "version": "1.0.0",
+  "description": "A story about Hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saul Maddox",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^2.6.1",
+    "catbox-memory": "^1.1.1",
+    "cheerio": "^0.18.0",
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.2.0",
+    "joi": "^6.0.4",
+    "lout": "^6.2.1",
+    "tv": "^4.1.0",
+    "wreck": "^5.2.0"
+  }
+}
